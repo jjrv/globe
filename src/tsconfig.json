@@ -1,0 +1,29 @@
+{
+	"compileOnSave": false,
+	"compilerOptions": {
+		"declaration": false,
+		"esModuleInterop": true,
+		"experimentalDecorators": true,
+		"jsx": "react",
+		"lib": [
+			"dom",
+			"es2018"
+		],
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"noImplicitAny": true,
+		"noImplicitThis": true,
+		"outDir": "../dist",
+		"removeComments": false,
+		"sourceMap": false,
+		"strictBindCallApply": true,
+		"strictFunctionTypes": true,
+		"strictNullChecks": true,
+		"strictPropertyInitialization": true,
+		"target": "es5",
+		"types": []
+	},
+	"files": [
+		"index.ts"
+	]
+}

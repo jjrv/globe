@@ -1,0 +1,12 @@
+{
+  "name": "globe",
+  "private": "true",
+  "version": "0.0.1",
+  "author": "Juha Järvi",
+  "license": "MIT",
+  "dependencies": {
+    "requirex": "^0.3.3",
+    "tslib": "^2.0.0",
+    "typescript": "^3.9.7"
+  }
+}
